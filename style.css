@@ -333,6 +333,7 @@ section .title::after {
 }
 .skills .skills-content .right .info img{
   width: 300px;
+  height: 100px;
 }
 
 .skills .skills-content .right span {
